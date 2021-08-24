@@ -159,6 +159,7 @@ header nav.desktop-menu a{
     color: white;
     float: left;
     width: 50%;
+    height: 350px;
     padding: 140px 0 90px 0;
     background-color: #835FA7;
 }
